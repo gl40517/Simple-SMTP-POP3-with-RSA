@@ -1,5 +1,6 @@
 # Simple-SMTP-POP3-with-RSA
 北京理工大学 小学期课程设计
+在VS2015下编译通过
 
 demo.cpp
 
